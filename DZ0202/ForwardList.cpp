@@ -86,7 +86,7 @@ void ForwardList::print()
 			cout << current->data << ' ';
 			current = current->next;
 		}
-		cout << std::endl;
+		cout << endl;
 	}
 }
 
